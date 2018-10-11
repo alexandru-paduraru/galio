@@ -1,4 +1,4 @@
-# [galio](https://www.creative-tim.com)
+# [galio](https://www.creative-tim.com) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Galio,%20a%20free%20and%20beautiful%20UI%20framework%20https%3A//creative-tim.com/%20%23reactnative%20%23react%20%23design%20%23developers%20%23freebie%20via%20%40CreativeTim)
 
 ![Galio Icon](https://github.com/galio-org/galio/blob/Alpha-1/assets/icon.png)
 

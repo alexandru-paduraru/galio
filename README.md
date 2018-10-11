@@ -1,5 +1,4 @@
-# galio
-Something fresh coming soon
+# [galio](https://www.creative-tim.com)
 
 ![Galio Icon](https://github.com/galio-org/galio/blob/Alpha-1/assets/icon.png)
 
